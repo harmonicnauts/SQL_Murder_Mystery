@@ -1,6 +1,6 @@
 # SQL Murder Mystery
 
-This is a fun game to practice your SQL, for strengtening your SQL concept and logic. The game is called "SQL Murder Mystery" and can be played from this website [https://mystery.knightlab.com/](https://mystery.knightlab.com/).
+This is a fun game to practice your SQL and for strengtening your SQL concept and logic. The game is called "SQL Murder Mystery" and can be played from this website [https://mystery.knightlab.com/](https://mystery.knightlab.com/).
 
 ## Premise :
 
