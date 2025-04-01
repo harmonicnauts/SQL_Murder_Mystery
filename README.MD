@@ -52,7 +52,7 @@ SELECT * FROM person WHERE address_street_name = "Franklin Ave" AND name LIKE "%
 
 ### Finding the interview transcript from both witnesses.
 
-We can use many methods, but in this example i use JOIN to find the id matching the previous query in the interview table.
+We can use many methods, but in this example i use CTE to find the id matching the previous query in the interview table.
 
 ```sql
 WITH Morty_Query AS (
